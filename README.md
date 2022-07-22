@@ -1,7 +1,7 @@
 <<h1 align="center">Oi 👋, Eu sou Edersom Barros</h1>
 <h3 align="center">Entusiasta em Desenvolvimento Beckend Java Web.</h3>
 
-- 🔭 Atuando em Projetos pessoais [EmailProject](https://github.com/EdersomBarros/EmailProject.git)
+- 🔭 Atuando em Projetos pessoais [EmailProject](https://github.com/EdersomBarros/EmailProject.git), [JDBC](https://github.com/EdersomBarros/cursojava.jdbc.git)
 
 - 🌱Atualmente estou estudando Java! Confira ai: [Certificados](https://github.com/EdersomBarros/Certificados.git)
 
