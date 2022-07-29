@@ -1,9 +1,9 @@
 <<h1 align="center">Oi 👋, Eu sou Edersom Barros</h1>
 <h3 align="center">Entusiasta em Desenvolvimento Full Stack Java Web.</h3>
 
-- 🔭 Atuando em Projetos pessoais [EmailProject](https://github.com/EdersomBarros/EmailProject.git), [CRUD](https://github.com/EdersomBarros/cursojava.jdbc.git)
+- 🔭 Portfólio de Projetos pessoais [EmailProject](https://github.com/EdersomBarros/EmailProject.git), [CRUD](https://github.com/EdersomBarros/cursojava.jdbc.git)
 
-- 🌱Atualmente estou estudando Java! Confira ai: [Certificados](https://github.com/EdersomBarros/Certificados.git)
+- 🌱Atualmente estou estudando Java! Confira aí: [Certificados](https://github.com/EdersomBarros/Certificados.git)
 
 - 💬 Me pergunte sobre: **Java,JavaOO,Jsf,Jpa,Hibernate,Sptring**
 
