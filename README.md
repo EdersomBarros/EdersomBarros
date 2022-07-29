@@ -1,5 +1,5 @@
 <<h1 align="center">Oi 👋, Eu sou Edersom Barros</h1>
-<h3 align="center">Entusiasta em Desenvolvimento Beckend Java Web.</h3>
+<h3 align="center">Entusiasta em Desenvolvimento Full Stack Java Web.</h3>
 
 - 🔭 Atuando em Projetos pessoais [EmailProject](https://github.com/EdersomBarros/EmailProject.git), [CRUD](https://github.com/EdersomBarros/cursojava.jdbc.git)
 
