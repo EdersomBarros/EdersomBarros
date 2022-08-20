@@ -5,7 +5,7 @@
 
 - 🌱Atualmente estou estudando Java! Confira aí: [Certificados](https://github.com/EdersomBarros/Certificados.git)
 
-- 💬 Me pergunte sobre: **Java,JavaOO,Jsf,Jpa,Hibernate,Sptring**
+- 💬 Me pergunte sobre: **Java,JavaOO,JSP,Jsf,Jpa,Hibernate,Spring**
 
 - 📫 Você me Acha pelo Email: **edersombarros@gmail.com**
 
