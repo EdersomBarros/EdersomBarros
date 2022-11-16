@@ -1,6 +1,6 @@
 <<h1 align="center">Oi 👋, Eu sou Edersom Barros</h1>
 <h3 align="center">Entusiasta em Desenvolvimento Full Stack Java Web.</h3>
-<h2>Sou estudante do Curso Superior de Tecnologia da Informação pela [UFMS]((https://www.ufms.br/)</h2>
+<h2>Sou estudante do Curso Superior de Tecnologia da Informação pela [UFMS](https://www.ufms.br/)</h2>
 
 - 🔭 Portfólio de Projetos pessoais [EmailProject](https://github.com/EdersomBarros/EmailProject.git), [CRUD](https://github.com/EdersomBarros/cursojava.jdbc.git), [Java-JSP](https://github.com/EdersomBarros/ProjetoJSP.git).
 
