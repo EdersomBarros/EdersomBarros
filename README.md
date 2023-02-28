@@ -3,7 +3,7 @@
 
 Sou estudante do Curso Superior de Tecnologia da Informação pela [UFMS](https://www.ufms.br).
 
-- 🔭 Portfólio de Projetos pessoais [EmailProject](https://github.com/EdersomBarros/EmailProject.git), [CRUD](https://github.com/EdersomBarros/cursojava.jdbc.git), [Java-JSP](https://github.com/EdersomBarros/ProjetoJSP.git), [Projeto JSF](https://github.com/EdersomBarros/ProjetoJsf.git).
+- 🔭 Portfólio de Projetos pessoais [EmailProject](https://github.com/EdersomBarros/EmailProject.git), [CRUD](https://github.com/EdersomBarros/cursojava.jdbc.git), [Java-JSP](https://github.com/EdersomBarros/ProjetoJSP.git), [Projeto JSF](https://github.com/EdersomBarros/ProjetoJsf.git), [Projeto PrimeFaces](https://github.com/EdersomBarros/ProjetoPrimeFaces.git).
 
 - 🌱Atualmente estou estudando Java! Confira aí: [Certificados](https://github.com/EdersomBarros/Certificados.git)
 
