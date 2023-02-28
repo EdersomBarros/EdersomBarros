@@ -7,7 +7,7 @@ Sou estudante do Curso Superior de Tecnologia da Informação pela [UFMS](https:
 
 - 🌱Atualmente estou estudando Java! Confira aí: [Certificados](https://github.com/EdersomBarros/Certificados.git)
 
-- 💬 Me pergunte sobre: **Java,JavaOO,JSP,Jsf,Jpa,Hibernate,Spring**
+- 💬 Me pergunte sobre: **Java, JavaOO, JSP, Jsf, Jpa, Hibernate, PrimeFaces, Spring Boot.**
 
 - 📫 Você me Acha pelo Email: **edersombarros@gmail.com**
 
